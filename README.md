@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MEUS PROJETOS APP INVENTOR
 
 Aqui estão meus projetos do App Inventor
